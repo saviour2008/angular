@@ -2,5 +2,5 @@
 2.(private rd2: Renderer2)
 3.object-fit:cover  给Img弄样式 width:100% height:100%;   外部的container加上height:高度
 4.scroll-behavior:smooth 光滑滚动
-5.scroll-snap-type: x mandatory
-6.scroll-snap-align: start
+5.scroll-snap-type: x mandatory(父级),scroll-snap-align: start（子级） 不到一半的时候往回弹一下。滚动效果
+6.
